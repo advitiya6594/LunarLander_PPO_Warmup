@@ -1,0 +1,5 @@
+gymnasium[box2d]>=0.29.1
+stable-baselines3>=2.4.1
+torch>=2.3
+imageio[ffmpeg]>=2.34
+tensorboard>=2.19
