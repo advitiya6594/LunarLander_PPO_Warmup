@@ -1,0 +1,12 @@
+# training outputs
+logs/
+*.zip
+
+# python cache & notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# editor cruft
+.DS_Store
+.vscode/
+.idea/
